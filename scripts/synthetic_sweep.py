@@ -5,6 +5,8 @@ import re
 import subprocess
 import sys
 import numpy as np
+import torch
+
 
 root = Path(__file__).resolve().parents[1]
 results = root / "results"

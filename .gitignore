@@ -1,3 +1,10 @@
 __pycache__/
 /saved_models/
 /.venv
+.ipynb_checkpoints/
+saved_models/
+results/*_train.txt
+results/*_test.txt
+results/logs/
+!results/synthetic_baseline.csv
+!results/synthetic_summary.csv
